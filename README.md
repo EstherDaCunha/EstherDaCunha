@@ -4,7 +4,9 @@
 <div>
   <a href="https://github.com/EstherDaCunha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherDaCunha&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherDaCunha&hide_progress=false">
 </div>
+
 
 ---
 
